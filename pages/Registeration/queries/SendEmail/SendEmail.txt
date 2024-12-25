@@ -68,7 +68,7 @@ http://65.2.38.121:8081/app/migratesaipdashbaord/dashboard-676bc56b9ebaed0d7af99
 <p> We kindly ask that you prioritize the verification of this information and update the Approved/Rejected Status in the Dashboard for {{HolderName.text}} profile.</p>
 </div>
 <div class="footer">
-
+<br>
 <p>Thank you for your prompt attention to this matter.</p>
 
 <p>Best regards,</p>
